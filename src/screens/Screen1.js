@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import {StyleSheet, Text,SafeAreaView ,View, TouchableOpacity, Image, FlatList} from 'react-native';
 
 const products = [
