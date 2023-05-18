@@ -1,6 +1,7 @@
 import React from 'react';
 import {useState} from 'react';
 import {SafeAreaView} from 'react-native';
+import MainNavigator from './src/navigation/navigation';
 
 function App() { 
   const [selectedItem, setSelectedItem] = useState(null)
